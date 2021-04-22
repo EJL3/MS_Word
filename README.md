@@ -1,2 +1,6 @@
-# MS_Word
-A neat Clone of Microsoft Word.
+# Fact
+Ditto program which allows most of the tools available in the ms word app.
+
+# Requirements
+pyqt5
+docx2txt
